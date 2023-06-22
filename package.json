@@ -1,6 +1,6 @@
 {
-  "name": "electron-google-mail-study",
-  "productName": "electron-google-mail-study",
+  "name": "electron-google-mail-work",
+  "productName": "electron-google-mail-work",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": "src/index.js",
